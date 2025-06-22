@@ -1,0 +1,5 @@
+error: failed to load module
+info: loaded successfully
+warning: missing reference
+error: timeout occurred
+debug: test passed
